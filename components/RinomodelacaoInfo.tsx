@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import background from 'public/back-full-face.jpeg';
 
-const LabialInfo = () => {
+const RinomodelacaoInfo = () => {
   const areas = [
     {
       title: "Lábios",
@@ -95,4 +95,4 @@ const LabialInfo = () => {
   );
 };
 
-export default LabialInfo;
+export default RinomodelacaoInfo;
