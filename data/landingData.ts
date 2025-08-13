@@ -83,35 +83,46 @@ export const diferenciaisData = [
 export const faqData = [
   {
     id: 1,
-    pergunta: "O preenchimento labial dói?",
-    resposta: "O preenchimento labial é realizado com agulhas ou cânulas finas e geralmente causa apenas um leve desconforto. Utilizamos anestesia local para garantir o máximo de conforto durante todo o procedimento."
+    pergunta: "A rinomodelação dói?",
+    resposta: "A rinomodelação é realizada com agulhas ou cânulas finas e geralmente causa apenas um leve desconforto. Utilizamos anestesia local para garantir maior conforto durante todo o procedimento."
   },
   {
     id: 2,
-    pergunta: "Quanto tempo dura o efeito do preenchimento labial?",
-    resposta: "A duração média do preenchimento labial é de 8 a 12 meses, podendo variar conforme o metabolismo individual, o tipo de ácido hialurônico utilizado e os cuidados pós-procedimento."
+    pergunta: "Quanto tempo dura o efeito da rinomodelação?",
+    resposta: "O resultado da rinomodelação costuma durar de 12 a 18 meses, dependendo do metabolismo individual, do tipo de produto utilizado e dos cuidados após o procedimento."
   },
   {
     id: 3,
-    pergunta: "Quando vejo o resultado do preenchimento labial?",
-    resposta: "Os resultados do preenchimento labial são visíveis imediatamente após a aplicação, mas o efeito final é percebido após cerca de 7 dias, quando o inchaço inicial diminui."
+    pergunta: "Quando vejo o resultado da rinomodelação?",
+    resposta: "Os resultados da rinomodelação são visíveis imediatamente após a aplicação, mas o efeito final é percebido em torno de 7 a 15 dias, quando o inchaço inicial diminui completamente."
   },
   {
     id: 4,
-    pergunta: "Qual é o tempo de recuperação após o preenchimento labial?",
-    resposta: "A recuperação do preenchimento labial é rápida. Pequenos inchaços ou hematomas podem ocorrer, mas desaparecem em poucos dias. É recomendado evitar exercícios físicos intensos e exposição ao sol nas primeiras 24 horas."
+    pergunta: "Qual é o tempo de recuperação após a rinomodelação?",
+    resposta: "A recuperação é rápida e não exige afastamento das atividades. Pequenos inchaços ou hematomas podem ocorrer, mas desaparecem em poucos dias. Evite exercícios físicos intensos e exposição ao sol nas primeiras 24 horas."
   },
   {
     id: 5,
-    pergunta: "O preenchimento labial é seguro?",
-    resposta: "Sim, desde que realizado por profissionais qualificados e utilizando produtos aprovados pela Anvisa. Na DamaFace seguimos protocolos rigorosos para garantir sua segurança e resultados naturais."
+    pergunta: "A rinomodelação é segura?",
+    resposta: "Sim, quando realizada por profissionais qualificados e utilizando produtos aprovados pela Anvisa. Na DamaFace seguimos protocolos rigorosos para garantir segurança e resultados naturais e harmoniosos."
   },
   {
     id: 6,
-    pergunta: "Preciso fazer exames antes de realizar o preenchimento labial?",
-    resposta: "Na maioria dos casos não há necessidade de exames prévios. Realizamos uma avaliação completa para entender seus objetivos e verificar se o preenchimento labial é indicado para você."
+    pergunta: "Preciso fazer exames antes de realizar a rinomodelação?",
+    resposta: "Na maioria dos casos, não são necessários exames prévios. Realizamos uma avaliação completa para entender seus objetivos e verificar se a rinomodelação é indicada para você."
+  },
+  {
+    id: 7,
+    pergunta: "A rinomodelação pode corrigir imperfeições no nariz sem cirurgia?",
+    resposta: "Sim, a rinomodelação é um procedimento não cirúrgico que corrige pequenas imperfeições, eleva a ponta, suaviza desníveis e harmoniza o nariz com o restante do rosto, oferecendo resultados naturais."
+  },
+  {
+    id: 8,
+    pergunta: "Quanto custa a rinomodelação em Vinhedo?",
+    resposta: "O valor do procedimento varia conforme a necessidade e técnica utilizada. Durante a avaliação personalizada na DamaFace, explicamos todos os detalhes e apresentamos o investimento exato."
   }
 ];
+
 
 export const unidadesData = [
   { value: "vinhedo", label: "Unidade 1 - Vinhedo" },
