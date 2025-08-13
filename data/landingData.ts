@@ -39,19 +39,19 @@ export const depoimentosData = [
   {
     id: 1,
     nome_paciente: "Ana F.",
-    foto_paciente_url: rinomodelacaoDepois1.src,
+    foto_paciente_url: labialDepois3.src,
     depoimento: "Eu sempre me sentia muito insegura por conta do formato do meu nariz. A rinomodelação que fiz na DamaFace transformou meu perfil de forma natural e equilibrada. Estou muito mais confiante!"
   },
   {
     id: 2,
     nome_paciente: 'Ana Maria',
-    foto_paciente_url: rinomodelacaoDepois2.src,
+    foto_paciente_url: labialDepois3.src,
     depoimento: "Meu nariz tinha pequenas imperfeições que me incomodavam. Após a rinomodelação na DamaFace, meu rosto ficou mais harmônico e meu sorriso muito mais bonito."
   },
   {
     id: 3,
     nome_paciente: "Luiza",
-    foto_paciente_url: rinomodelacaoDepois3.src,
+    foto_paciente_url: labialDepois3.src,
     depoimento: "A rinomodelação feita na DamaFace foi incrível. O resultado ficou natural, sem exageros, e mudou totalmente a minha autoestima."
   }
 ]
