@@ -9,12 +9,12 @@ import Footer from '@/components/Footer';
 import ChatWidget from '@/components/ChatWidget/ChatWidget';
 
 export const metadata = {
-  title: 'DamaFace Vinhedo – Preenchimento Labial em Vinhedo/SP | Lábios Definidos e Naturais',
-  description: 'DamaFace em Vinhedo/SP — referência em preenchimento labial para aumentar volume, definir contorno e hidratar os lábios com naturalidade. +8 anos de experiência e +3.000 procedimentos realizados. Realce sua beleza com segurança. Agende sua avaliação!',
-  keywords: 'preenchimento labial Vinhedo, aumentar volume dos lábios, definir contorno labial, hidratação labial, lábios naturais, clínica estética Vinhedo, harmonização facial, DamaFace',
+  title: 'DamaFace Vinhedo – Rinomodelação em Vinhedo/SP | Nariz Harmonioso e Natural',
+  description: 'DamaFace em Vinhedo/SP — referência em rinomodelação não cirúrgica para corrigir pequenas imperfeições, equilibrar o perfil e valorizar a harmonia facial. +8 anos de experiência e +3.000 procedimentos realizados. Resultados naturais e seguros. Agende sua avaliação!',
+  keywords: 'rinomodelação Vinhedo, nariz sem cirurgia, harmonização nasal, correção imperfeições nariz, nariz natural Vinhedo, clínica estética Vinhedo, DamaFace, nariz harmônico',
   openGraph: {
-    title: 'DamaFace Vinhedo – Preenchimento Labial',
-    description: 'Clínica especializada em preenchimento labial em Vinhedo/SP. Procedimento seguro e personalizado para realçar seus lábios com naturalidade. Agende sua avaliação!',
+    title: 'DamaFace Vinhedo – Rinomodelação Não Cirúrgica',
+    description: 'Clínica especializada em rinomodelação em Vinhedo/SP. Procedimento seguro e personalizado para corrigir imperfeições do nariz sem cirurgia. Agende sua avaliação!',
     type: 'website',
   }
 }
