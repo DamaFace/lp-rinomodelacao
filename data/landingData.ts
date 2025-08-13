@@ -34,27 +34,27 @@ export const carrosselData = [
     legenda: "Resultado equilibrado e sofisticado"
   }
 ];
-// dados para os depoimentos 
+// depoimentos
 export const depoimentosData = [
   {
     id: 1,
     nome_paciente: "Ana F.",
-    foto_paciente_url: labialDepois1.src,
-    depoimento: "Sempre quis ter lábios mais definidos e volumosos, mas sem perder a naturalidade. O preenchimento labial que fiz na DamaFace superou minhas expectativas. Ficou perfeito!"
+    foto_paciente_url: rinomodelacaoDepois1.src,
+    depoimento: "Eu sempre me sentia muito insegura por conta do formato do meu nariz. A rinomodelação que fiz na DamaFace transformou meu perfil de forma natural e equilibrada. Estou muito mais confiante!"
   },
   {
     id: 2,
     nome_paciente: 'Ana Maria',
-    foto_paciente_url: labialDepois2.src,
-    depoimento: "Meus lábios eram muito finos e sem contorno. Após o preenchimento labial na DamaFace, ganhei volume e hidratação. Agora me sinto muito mais confiante para sorrir."
+    foto_paciente_url: rinomodelacaoDepois2.src,
+    depoimento: "Meu nariz tinha pequenas imperfeições que me incomodavam. Após a rinomodelação na DamaFace, meu rosto ficou mais harmônico e meu sorriso muito mais bonito."
   },
   {
     id: 3,
     nome_paciente: "Luiza",
-    foto_paciente_url: labialDepois3.src,
-    depoimento: "O preenchimento labial que fiz na DamaFace ficou extremamente natural. A equipe foi atenciosa, explicou todo o processo e o resultado ficou harmonioso com meu rosto."
+    foto_paciente_url: rinomodelacaoDepois3.src,
+    depoimento: "A rinomodelação feita na DamaFace foi incrível. O resultado ficou natural, sem exageros, e mudou totalmente a minha autoestima."
   }
-];
+]
 
 // Dados para a seção "Por que escolher a DamaFace?"
 export const diferenciaisData = [
