@@ -78,7 +78,7 @@ const Hero = () => {
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold mb-6 leading-tight text-white drop-shadow-sm">
                 Rinomodelação
                 <span className="text-[#fa1571] block font-semibold">Corrija pequenas imperfeições <span className="text-[#fff] block font-semibold">e </span>harmonize seu perfil</span>
-                <span className="text-[#fa1571] block font-semibold">harmonize seu perfil</span> de forma natural
+                de forma natural
               </h1>
                 <p className="text-lg md:text-xl mb-8 text-gray-300 leading-relaxed max-w-2xl">
                   São mais de <span className="text-[#fa1571] font-semibold">8 anos</span> realizando rinomodelação segura e eficaz. Corrija desníveis, imperfeições ou assimetrias do nariz, valorizando a harmonia do rosto e mantendo sua naturalidade e expressão única.
