@@ -4,8 +4,8 @@ import background from 'public/back-full-face.jpeg';
 const RinomodelacaoInfo = () => {
   const areas = [
     {
-      title: "Lábios",
-      description: "Realce do volume, definição do contorno e harmonização com o restante do rosto, garantindo um resultado equilibrado e natural."
+      title: "Nariz",
+      description: "A rinomodelação realça o equilíbrio e a simetria do nariz em relação ao restante do rosto, proporcionando um resultado harmônico e natural."
     }
   ];
 
@@ -16,7 +16,7 @@ const RinomodelacaoInfo = () => {
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-black mb-6">
             O que é
-            <span className="text-[#fa1571] font-semibold"> Preenchimento Labial</span>?
+            <span className="text-[#fa1571] font-semibold">Rinomodelação?</span>
           </h2>
         </div>
 
@@ -24,13 +24,13 @@ const RinomodelacaoInfo = () => {
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <div>
             <p className="text-lg text-gray-700 mb-8 leading-relaxed">
-              O preenchimento labial é um procedimento estético minimamente invasivo que realça o volume, o contorno
-              e a simetria dos lábios, proporcionando um sorriso mais harmonioso e atraente. 
-              Além de aumentar o volume, o tratamento também melhora a hidratação e a textura da pele labial.
+              A rinomodelação é um procedimento estético minimamente invasivo que permite corrigir pequenas
+              imperfeições do nariz, equilibrar o perfil facial e valorizar a harmonia do rosto sem cirurgia.
+              O tratamento proporciona resultados naturais, mantendo a expressão individual de cada paciente.
             </p>
             <p className="text-lg text-gray-700 mb-8 leading-relaxed">
-              Com aplicação rápida e praticamente indolor, o preenchimento labial oferece resultados imediatos,
-              mantendo a naturalidade e respeitando a beleza única de cada paciente.
+              Com aplicação rápida e praticamente indolor, a rinomodelação oferece um resultado imediato e seguro,
+              respeitando a estética e a proporção do rosto.
             </p>
 
             <div className="bg-[#ededed] rounded-2xl p-8 mb-8">
@@ -38,23 +38,19 @@ const RinomodelacaoInfo = () => {
               <ul className="space-y-3 text-gray-700">
                 <li className="flex items-center">
                   <div className="w-2 h-2 bg-[#fa1571] rounded-full mr-3"></div>
-                  Aumenta o volume dos lábios
+                  Corrige pequenas imperfeições e desníveis do nariz
                 </li>
                 <li className="flex items-center">
                   <div className="w-2 h-2 bg-[#fa1571] rounded-full mr-3"></div>
-                  Define o contorno labial
+                  Harmoniza o perfil facial
                 </li>
                 <li className="flex items-center">
                   <div className="w-2 h-2 bg-[#fa1571] rounded-full mr-3"></div>
-                  Corrige pequenas assimetrias
+                  Procedimento rápido e minimamente invasivo
                 </li>
                 <li className="flex items-center">
                   <div className="w-2 h-2 bg-[#fa1571] rounded-full mr-3"></div>
-                  Melhora a hidratação e a textura dos lábios
-                </li>
-                <li className="flex items-center">
-                  <div className="w-2 h-2 bg-[#fa1571] rounded-full mr-3"></div>
-                    Procedimento rápido e minimamente invasivo
+                  Melhora a autoestima e confiança
                 </li>
               </ul>
             </div>
@@ -76,7 +72,7 @@ const RinomodelacaoInfo = () => {
         {/* Áreas tratadas */}
         <div className="mt-20">
           <h3 className="text-3xl font-bold text-center text-black mb-12">
-            Principal Área Tratada com Preenchimento Labial Lábios
+            Principal Área Tratada com Rinomodelação
           </h3>
           <div className="grid md:grid-cols-3 gap-8">
             {areas.map((area, index) => (
