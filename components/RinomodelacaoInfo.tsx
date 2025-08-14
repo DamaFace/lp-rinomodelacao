@@ -15,8 +15,7 @@ const RinomodelacaoInfo = () => {
         {/* Título */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-black mb-6">
-            O que é
-            <span className="text-[#fa1571] font-semibold">Rinomodelação?</span>
+            O que é<span className="text-[#fa1571] font-semibold"> Rinomodelação?</span>
           </h2>
         </div>
 
