@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import background from 'public/back-full-face.jpeg';
+import background from 'public/back-rino.jpeg';
 
 const RinomodelacaoInfo = () => {
   const areas = [
