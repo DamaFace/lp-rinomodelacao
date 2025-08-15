@@ -1,9 +1,9 @@
 import rinoAntes1 from 'public/antes-depois-img/rino-1.1.png'
 import rinoDepois1 from 'public/antes-depois-img/rino-1.2.png'
-import rinoAntes2 from 'public/antes-depois-img/rino-1.1.png'
-import rinoDepois2 from 'public/antes-depois-img/rino-1.2.png'
-import rinoAntes3 from 'public/antes-depois-img/rino-1.1.png'
-import rinoDepois3 from 'public/antes-depois-img/rino-1.2.png'
+import rinoAntes2 from 'public/antes-depois-img/rino-2.1.png'
+import rinoDepois2 from 'public/antes-depois-img/rino-2.2.png'
+import rinoAntes3 from 'public/antes-depois-img/rino-3.1.png'
+import rinoDepois3 from 'public/antes-depois-img/rino-3.2.png'
 
 import depoimento1 from 'public/depoimentos/depoimento-1.png'
 import depoimento2 from 'public/depoimentos/depoimento-2.png'
