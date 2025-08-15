@@ -34,6 +34,7 @@ export const carrosselData = [
     imagem_antes_url: labialAntes3.src,
     imagem_depois_url: labialDepois3.src,
     legenda: "Resultado equilibrado e sofisticado"
+  }
 ];
 // depoimentos
 export const depoimentosData = [
