@@ -7,6 +7,14 @@ import labialDepois3 from '@/assets/ante-x-depois-img/labial-3.2.png'
 import labialAntes4 from '@/assets/ante-x-depois-img/labial-4.1.png'
 import labialDepois4 from '@/assets/ante-x-depois-img/labial-4.2.png'
 
+import rinoAntes1 from 'public/antes-depois-img/rino-1.1.png'
+import rinoDepois1 from 'public/antes-depois-img/rino-1.2.png'
+import rinoAntes2 from 'public/antes-depois-img/rino-1.1.png'
+import rinoDepois2 from 'public/antes-depois-img/rino-1.2.png'
+import rinoAntes3 from 'public/antes-depois-img/rino-1.1.png'
+import rinoDepois3 from 'public/antes-depois-img/rino-1.2.png'
+
+
 // Dados para o carrossel (antes x depois)
 export const carrosselData = [
   {
@@ -26,13 +34,6 @@ export const carrosselData = [
     imagem_antes_url: labialAntes3.src,
     imagem_depois_url: labialDepois3.src,
     legenda: "Resultado equilibrado e sofisticado"
-  },
-    {
-    id: 4,
-    imagem_antes_url: labialAntes4.src,
-    imagem_depois_url: labialDepois4.src,
-    legenda: "Resultado equilibrado e sofisticado"
-  }
 ];
 // depoimentos
 export const depoimentosData = [
