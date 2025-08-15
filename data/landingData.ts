@@ -1,12 +1,3 @@
-import labialAntes1 from '@/assets/ante-x-depois-img/labial-1.1.png'
-import labialDepois1 from '@/assets/ante-x-depois-img/labial-1.2.png'
-import labialAntes2 from '@/assets/ante-x-depois-img/labial-2.1.png'
-import labialDepois2 from '@/assets/ante-x-depois-img/labial-2.2.png'
-import labialAntes3 from '@/assets/ante-x-depois-img/labial-3.1.png'
-import labialDepois3 from '@/assets/ante-x-depois-img/labial-3.2.png'
-import labialAntes4 from '@/assets/ante-x-depois-img/labial-4.1.png'
-import labialDepois4 from '@/assets/ante-x-depois-img/labial-4.2.png'
-
 import rinoAntes1 from 'public/antes-depois-img/rino-1.1.png'
 import rinoDepois1 from 'public/antes-depois-img/rino-1.2.png'
 import rinoAntes2 from 'public/antes-depois-img/rino-1.1.png'
@@ -14,25 +5,28 @@ import rinoDepois2 from 'public/antes-depois-img/rino-1.2.png'
 import rinoAntes3 from 'public/antes-depois-img/rino-1.1.png'
 import rinoDepois3 from 'public/antes-depois-img/rino-1.2.png'
 
+import depoimento1 from 'public/depoimentos/depoimento-1.png'
+import depoimento2 from 'public/depoimentos/depoimento-2.png'
+import depoimento3 from 'public/depoimentos/depoimento-3.png'
 
 // Dados para o carrossel (antes x depois)
 export const carrosselData = [
   {
     id: 1,
-    imagem_antes_url: labialAntes1.src,
-    imagem_depois_url: labialDepois1.src,
+    imagem_antes_url: rinoAntes1.src,
+    imagem_depois_url: rinoDepois1.src,
     legenda: "Transformação suave e natural com preenchimento labial"
   },
   {
     id: 2,
-    imagem_antes_url: labialAntes2.src,
-    imagem_depois_url: labialDepois2.src,
+    imagem_antes_url: rinoAntes2.src,
+    imagem_depois_url: rinoDepois2.src,
     legenda: "Harmonização completa realçando a beleza natural"
   },
   {
     id: 3,
-    imagem_antes_url: labialAntes3.src,
-    imagem_depois_url: labialDepois3.src,
+    imagem_antes_url: rinoAntes3.src,
+    imagem_depois_url: rinoDepois3.src,
     legenda: "Resultado equilibrado e sofisticado"
   }
 ];
@@ -40,20 +34,20 @@ export const carrosselData = [
 export const depoimentosData = [
   {
     id: 1,
-    nome_paciente: "Ana F.",
-    foto_paciente_url: labialDepois3.src,
+    nome_paciente: "Patrícia C.",
+    foto_paciente_url: depoimento1.src,
     depoimento: "Eu sempre me sentia muito insegura por conta do formato do meu nariz. A rinomodelação que fiz na DamaFace transformou meu perfil de forma natural e equilibrada. Estou muito mais confiante!"
   },
   {
     id: 2,
-    nome_paciente: 'Ana Maria',
-    foto_paciente_url: labialDepois3.src,
+    nome_paciente: 'Fernanda A.',
+    foto_paciente_url: depoimento2.src,
     depoimento: "Meu nariz tinha pequenas imperfeições que me incomodavam. Após a rinomodelação na DamaFace, meu rosto ficou mais harmônico e meu sorriso muito mais bonito."
   },
   {
     id: 3,
-    nome_paciente: "Luiza",
-    foto_paciente_url: labialDepois3.src,
+    nome_paciente: "Carla P.",
+    foto_paciente_url: depoimento3.src,
     depoimento: "A rinomodelação feita na DamaFace foi incrível. O resultado ficou natural, sem exageros, e mudou totalmente a minha autoestima."
   }
 ]
